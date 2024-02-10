@@ -1,18 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <h2>Hi, I'm Luciano 👋</h2>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="300">
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300">
+```js
+const i = {
+  name: "Luciano Vega",
+  skills: {
+    languages: ["C#", "C", "Motoko", "Javascript", "HTML", "CSS", "SQL", "Ruby"],
+    frameworks: ["React", ".NET"]
+  },
+  education: ["Universidad Tecnica Nacional Facultad Regional de Avellaneda"],
+  Learning: ["ASP.NET", "Reac Native"]
+};
+```
 
-<!--
-**VegaLuciano/VegaLuciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SKILLS
+[![My Skills](https://skillicons.dev/icons?i=c,cs,javascript,html,css,ruby&theme=light)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+<details>
+<summary><h3>Contact with Me</h3></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/lucianovega-s5/)
+
+</details>
