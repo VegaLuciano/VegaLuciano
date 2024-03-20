@@ -23,4 +23,6 @@ const i = {
 
 - [LinkedIn](https://www.linkedin.com/in/lucianovega-s5/)
 
+- [CV](https://drive.google.com/file/d/1tLAnFo_EsnnY5NerqPjXz5bsHsUpJOYu/view?usp=sharing)
+
 </details>
