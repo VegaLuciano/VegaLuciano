@@ -8,7 +8,7 @@ const i = {
   name: "Luciano Vega",
   skills: {
     languages: ["C#", "C", "Motoko", "Javascript", "HTML", "CSS", "SQL", "Ruby"],
-    frameworks: ["React", ".NET Framework, ASP.NET, ASP.NET CORE MVC"]
+    frameworks: ["React", ".NET Framework", "ASP.NET", "ASP.NET CORE MVC"]
   },
   education: ["Universidad Tecnica Nacional Facultad Regional de Avellaneda"],
   Learning: ["AWS"]
